@@ -66,7 +66,7 @@ const Navbar = () => {
           </ul>
         </div>
         <NavLink to="/" className="btn btn-ghost text-2xl">
-          EventHub
+          Event<span className=" text-emerald-400">Hub</span>
         </NavLink>
       </div>
       <div className="navbar-center hidden lg:flex">
