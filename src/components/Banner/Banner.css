@@ -1,3 +1,13 @@
 .banner-img {
   height: 619px;
 }
+.banner-top {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+.banner-icons {
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 10px;
+}
