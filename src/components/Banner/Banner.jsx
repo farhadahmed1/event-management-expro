@@ -11,7 +11,7 @@ const Banner = () => {
             <i className="banner-icons text-red-500">
               <FaRegCalendar />
             </i>
-            <span className=" text-emerald-400">September 15-20-2024</span>
+            <span className=" text-emerald-400">September 15 2024</span>
           </div>
           <div className="text-2xl ml-4">
             <i className="banner-icons text-red-500">
@@ -25,7 +25,7 @@ const Banner = () => {
           <p className=" text-white p-2 mt-2 text-2xl">
             Go ready the next event
           </p>
-          <hr className="w-48 h-1 mx-auto mb-10 mt-2 bg-red-500 border-0 rounded  dark:bg-gray-700"></hr>
+          <hr className="w-64 h-0.5 mx-auto mb-10 mt-1 bg-red-500 border-0 rounded  dark:bg-gray-700"></hr>
           <NavLink
             to="/event"
             className="btn rounded-full text-xl  hover:bg-emerald-400"
