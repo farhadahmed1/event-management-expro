@@ -2,6 +2,7 @@ import "./Banner.css";
 import { FaLocationDot } from "react-icons/fa6";
 import { FaRegCalendar } from "react-icons/fa6";
 import { NavLink } from "react-router-dom";
+import TimeCountdown from "../TimeCountdown/TimeCountdown";
 const Banner = () => {
   return (
     <div className=" banner-img bg-fixed w-full bg-no-repeat  bg-[url(https://demo.ovathemewp.com/em4u/wp-content/uploads/2017/09/bg3.jpg)]">
@@ -32,6 +33,9 @@ const Banner = () => {
           >
             View More
           </NavLink>
+        </div>
+        <div className="">
+          <TimeCountdown></TimeCountdown>
         </div>
       </div>
     </div>
