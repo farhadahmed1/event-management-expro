@@ -1,0 +1,155 @@
+[
+  {
+    "id": 1,
+    "title": "Football Match",
+    "date": "2024-03-10",
+    "eventLocation": "Stadium A",
+    "image": "https://i.ibb.co/xFS0MY0/football.jpg",
+    "details": "Exciting football match between two top teams.",
+    "bookingPrice": 25.99,
+    "tickets_available": 5000
+  },
+
+  {
+    "id": 2,
+    "title": "Cycling Race",
+    "date": "2024-04-25",
+    "eventLocation": "City Streets",
+    "image": "https://i.ibb.co/3WQ7XMV/cycling.jpg",
+    "details": "Annual cycling race through scenic city routes.",
+    "bookingPrice": 30.0,
+    "tickets_available": 2000
+  },
+  {
+    "id": 3,
+    "title": "Rugby Match",
+    "date": "2024-05-02",
+    "eventLocation": "Rugby Field",
+    "image": "https://i.ibb.co/LCSqC8H/rugby-ball.jpg",
+    "details": "Intense rugby match between local teams.",
+    "bookingPrice": 18.5,
+    "tickets_available": 3000
+  },
+  {
+    "id": 4,
+    "title": "Volleyball Tournament",
+    "date": "2024-05-10",
+    "eventLocation": "Beach Resort",
+    "image": "https://i.ibb.co/dfjwvKX/volleyball.jpg",
+    "details": "Beach volleyball tournament with teams from around the world.",
+    "bookingPrice": 25.0,
+    "tickets_available": 2500
+  },
+
+  {
+    "id": 5,
+    "title": "Skiing Championship",
+    "date": "2024-05-15",
+    "eventLocation": "Mountain Resort",
+    "image": "https://i.ibb.co/12RTm37/athletics.jpg",
+    "details": "International skiing championship in picturesque mountain slopes.",
+    "bookingPrice": 75.0,
+    "tickets_available": 1000
+  },
+  {
+    "id": 6,
+    "title": "Athletics Meet",
+    "date": "2024-05-20",
+    "eventLocation": "Athletics Stadium",
+    "image": "https://example.com/athletics.jpg",
+    "details": "Annual athletics meet featuring various track and field events.",
+    "bookingPrice": 15.0,
+    "tickets_available": 4000
+  },
+  {
+    "id": 7,
+    "title": "Cricket Match",
+    "date": "2024-06-01",
+    "eventLocation": "Cricket Ground",
+    "image": "https://i.ibb.co/FYJCPfF/cricket.jpg",
+    "details": "Exciting cricket match between national teams.",
+    "bookingPrice": 22.0,
+    "tickets_available": 2000
+  },
+
+  {
+    "id": 8,
+    "title": "Triathlon",
+    "date": "2024-06-10",
+    "eventLocation": "Coastal Area",
+    "image": "https://i.ibb.co/BqmjmQT/triathlon.jpg",
+    "details": "Challenging triathlon race including swimming, cycling, and running.",
+    "bookingPrice": 60.0,
+    "tickets_available": 1000
+  },
+  {
+    "id": 9,
+    "title": "Baseball Game",
+    "date": "2024-06-20",
+    "eventLocation": "Baseball Stadium",
+    "image": "https://i.ibb.co/hHFvYcj/Baseball.jpg",
+    "details": "Professional baseball game with top teams.",
+    "bookingPrice": 28.0,
+    "tickets_available": 3000
+  },
+  {
+    "id": 10,
+    "title": "Horse Racing",
+    "date": "2024-07-05",
+    "eventLocation": "Racecourse",
+    "image": "https://i.ibb.co/m4v6pQD/horse-racing.jpg",
+    "details": "High-stakes horse racing event with top jockeys.",
+    "bookingPrice": 45.0,
+    "tickets_available": 1500
+  },
+  {
+    "id": 11,
+    "title": "Table Tennis Tournament",
+    "date": "2024-07-15",
+    "eventLocation": "Table Tennis Club",
+    "image": "https://i.ibb.co/3C99hgX/20220427180-L.jpg",
+    "details": "Annual table tennis tournament for enthusiasts.",
+    "bookingPrice": 12.0,
+    "tickets_available": 2000
+  },
+  {
+    "id": 12,
+    "title": "Wrestling Match",
+    "date": "2024-07-25",
+    "eventLocation": "Wrestling Arena",
+    "image": "https://i.ibb.co/KXS1C8W/wwe-wrestling.jpg",
+    "details": "Intense wrestling matches between top wrestlers.",
+    "bookingPrice": 18.0,
+    "tickets_available": 3500
+  },
+  {
+    "id": 13,
+    "title": "Gymnastics Competition",
+    "date": "2024-08-05",
+    "eventLocation": "Gymnastics Center",
+    "image": "https://i.ibb.co/dBNR1kF/gymnastics.png",
+    "details": "Annual gymnastics competition showcasing flexibility and strength.",
+    "bookingPrice": 20.0,
+    "tickets_available": 1200
+  },
+  {
+    "id": 14,
+    "title": "Boxing Match",
+    "date": "2024-08-15",
+    "eventLocation": "Boxing Arena",
+    "image": "https://i.ibb.co/9p4tJQk/Boxing-20.jpg",
+    "details": "Exciting boxing matches featuring heavyweight fighters.",
+    "bookingPrice": 55.0,
+    "tickets_available": 2000
+  },
+  {
+    "id": 15,
+    "title": "Golf Championship",
+    "date": "2024-08-25",
+    "eventLocation": "Golf Course",
+    "image": "https://i.ibb.co/qpXJdKr/golf-championship.jpg",
+    "details": "Annual golf championship with top professional players.",
+    "bookingPrice": 150.0,
+    "tickets_available": 800
+  }
+]
