@@ -35,7 +35,7 @@
     "title": "Volleyball Tournament",
     "date": "2024-05-10",
     "eventLocation": "Beach Resort",
-    "image": "https://i.ibb.co/dfjwvKX/volleyball.jpg",
+    "image": "https://i.ibb.co/RhTzVJ4/volleyball.webp",
     "details": "Beach volleyball tournament with teams from around the world.",
     "bookingPrice": 25.0,
     "tickets_available": 2500
@@ -51,16 +51,7 @@
     "bookingPrice": 75.0,
     "tickets_available": 1000
   },
-  {
-    "id": 6,
-    "title": "Athletics Meet",
-    "date": "2024-05-20",
-    "eventLocation": "Athletics Stadium",
-    "image": "https://example.com/athletics.jpg",
-    "details": "Annual athletics meet featuring various track and field events.",
-    "bookingPrice": 15.0,
-    "tickets_available": 4000
-  },
+
   {
     "id": 7,
     "title": "Cricket Match",

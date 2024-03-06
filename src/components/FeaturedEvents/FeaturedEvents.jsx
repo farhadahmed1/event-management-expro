@@ -18,7 +18,7 @@ const FeaturedEvents = ({ event }) => {
         </div>
       </div> */}
 
-      <div className="card w-96 glass">
+      <div className="card w-96 h-full glass">
         <figure>
           <img src={image} alt="car!" />
         </figure>
