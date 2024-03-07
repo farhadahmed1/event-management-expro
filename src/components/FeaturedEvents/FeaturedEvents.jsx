@@ -1,8 +1,9 @@
 import PropTypes from "prop-types";
-import { FaLocationDot } from "react-icons/fa6";
+import { FaCalendar, FaLocationDot } from "react-icons/fa6";
+import { Link } from "react-router-dom";
 const FeaturedEvents = ({ event }) => {
   console.log(event);
-  const { title, id, data, eventLocation, image, details } = event;
+  const { title, id, date, eventLocation, image, details } = event;
   return (
     <div>
       {/* <div className="card card-compact w-96 bg-base-100 shadow-xl">
@@ -25,12 +26,19 @@ const FeaturedEvents = ({ event }) => {
         <div className="card-body">
           <h2 className="card-title">{title}</h2>
           <p>{details}</p>
-          <p className="justify-center flax">
-            <FaLocationDot />
-            {eventLocation}
-          </p>
+          <div>
+            <p>
+              <FaCalendar /> {date}
+            </p>
+            <p className="justify-center flax">
+              <FaLocationDot />
+              {eventLocation}
+            </p>
+          </div>
           <div className="card-actions justify-end">
-            <button className="btn btn-primary">Learn now!</button>
+            <button className="btn btn-primary">
+              <Link to={`/service/${id}`}>Details</Link>
+            </button>
           </div>
         </div>
       </div>

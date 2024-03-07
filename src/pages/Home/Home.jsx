@@ -30,10 +30,10 @@ const Home = () => {
         </div>
         <div className={dataLength === featuredEvent.length && "hidden"}>
           <button
-            onClick={() => setDataLength(featuredEvent.length)}
+            // onClick={() => setDataLength(featuredEvent.length)}
             className="btn btn-primary"
           >
-            More Event
+            <Link to="/services"> More Event</Link>
           </button>
         </div>
       </div>
