@@ -7,13 +7,6 @@ const Home = () => {
   const featuredEvent = useLoaderData();
   const [dataLength, setDataLength] = useState(4);
 
-  // const filterEvents = featuredEvent.filter(1, 4);
-  // console.log(filterEvents);
-  //console.log(featuredEvent);
-  // if (featuredEvent.length > 4) {
-  //   const homePageEvent = new FeaturedEvents.filter(1, 4);
-  //   return homePageEvent;
-  // }
   return (
     <>
       <Banner></Banner>
