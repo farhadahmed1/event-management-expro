@@ -10,15 +10,6 @@ const ServiceDetails = () => {
 
   const service = services.find((service) => service.id === idInt);
   console.log(service);
-  // const [service, setService] = useState(null);
-
-  // useEffect(() => {
-  //   fetch(`../../../data.json/services/${id}`)
-  //     .then((res) => res.json())
-  //     .then((data) => {
-  //       setService(data);
-  //     });
-  // }, [id]);
 
   return (
     <div>
