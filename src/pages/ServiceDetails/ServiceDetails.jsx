@@ -1,8 +1,6 @@
 import { useLoaderData, useParams } from "react-router-dom";
 
 const ServiceDetails = () => {
-  // const singleService = useLoaderData();
-  // console.log(singleService);
   const services = useLoaderData();
   const { id } = useParams();
   const idInt = parseInt(id);
